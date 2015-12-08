@@ -1,0 +1,2 @@
+role 'configuresqlag',
+  git: 'https://git.ellucian.com/scm/ec/ansible-role-configuresqlag.git', ref: 'master'
