@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/sainath-reancloud/ansible-role-configuresqlag.git
+  ref: master
+  sha: f5fb3aab076694931ff887df5212ac1a51b17af9
+  specs:
+    configuresqlag (0.1)
+
+DEPENDENCIES
+  configuresqlag (>= 0)
+
